@@ -28,8 +28,6 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -41,14 +39,19 @@
   </h2> 
 
 <h4 align="left">Achievement</h4>
-<div align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir372569&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir372569" /> 
-</p>
-    
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007)    
 
+<div align="left" style="display:flex;">
+        <p>          
+ <img src="https://komarev.com/ghpvc/?username=sabbir372569&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir372569" /> 
+        </p>
+<p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007)   
+            
+</p>
 </div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir372569" alt="sabbir372569" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <!-- Social Links -->
@@ -85,8 +88,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Mohammed alamin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mohammed alamin" /></a></p><br><br>
+<h4 align="left">Support:</h4>
+<p><a href="https://www.buymeacoffee.com/Mohammed alamin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mohammed alamin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir372569&show_icons=true&locale=en&layout=compact" alt="sabbir372569" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir372569&show_icons=true&locale=en" alt="sabbir372569" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir372569&" alt="sabbir372569" /></p>
@@ -103,21 +106,7 @@
 <a href="https://github.com/Sabbir372569/Sabbir372569?tab=readme-ov-file">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Sabbir372569&repo=Sabbir372569&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
-<span>&nbsp;</span>
-<a href="https://github.com/Sabbir372569/1_Smart_Show_grade_case">
-<img width='49%' align="center"src="https://github.com/Sabbir372569/1_Smart_Show_grade_caseusername=Sabbir372569&repo=1_Smart_Show_grade_case&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
-<p align="center">
-<a href="https://github.com/Sabbir372569/4.Youth-Architects">
-<img width='49%' align="center"src="https://vercel.com/mohammed-alamins-projects/8-donation-campaign-cew8&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Sabbir372569/2.PlayVille">
-<img width='49%' align="center"src="&repo=2.PlayVille&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
 <samp>
     <p align="left">
