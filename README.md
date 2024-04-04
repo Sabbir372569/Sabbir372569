@@ -76,11 +76,7 @@
          <a href="https://web.skype.com/" target="_blank"><img alt="skype"
                 src="https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white">
         </a>
-     
 
-
-        
-    </p>
 </details>
 <br>
 
