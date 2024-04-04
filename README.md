@@ -72,7 +72,7 @@
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
+        <a href="https://twitter.com/connectshafin](https://twitter.com/MahtabAlamin)" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
         </a>
         <!-- Linkedin -->
