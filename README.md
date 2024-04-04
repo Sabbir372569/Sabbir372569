@@ -62,8 +62,8 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <img alt="Mohammed Sabbir Ahmed"
+                src="https://github-readme-stats.vercel.app/&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
@@ -76,12 +76,12 @@
                 src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
         </a>
         <!-- FaceBook -->
-        <a href="https://www.facebook.com/profile.php?id=100077412816172" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+        <a href="https://www.facebook.com/profile.php?id=100077412816172" target="_blank"><img alt="FaceBook"
+                src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
         </a>
         <!-- Skype -->
-         <a href="https://web.skype.com/" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
+         <a href="https://web.skype.com/" target="_blank"><img alt="skype"
+                src="https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white">
         </a>
      
 
