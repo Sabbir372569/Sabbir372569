@@ -68,7 +68,7 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
-        <a href="mailto:connect.alamin228506@gmail.com" target="_blank"><img alt="Mail"
+        <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Twitter -->
