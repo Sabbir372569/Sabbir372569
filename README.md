@@ -2,9 +2,6 @@
 <!-- April 15, 2021 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
-
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -41,25 +38,33 @@
                
   <h2 align="center">
         <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
   </h2> 
-  <div align="center">
-    
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+
+
+
+
+<h3 align="center" style="display: flex; ">A passionate frontend developer from India</h3>
+
+<div align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir372569&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir372569" /> 
+</p>
+        
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007)    
 
 </div>
 
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir372569" alt="sabbir372569" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<!-- Social Links -->
+<h3 align="left">Connect with me:</h3>
+         <p align="left">
         <br>
-        <!-- Activity Widget -->
-        <img alt="Mohammed Sabbir Ahmed"
-                src="https://github-readme-stats.vercel.app/&show_icons=true&theme=radical" />
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
         <!-- Mail -->
         <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -76,25 +81,26 @@
          <a href="https://web.skype.com/" target="_blank"><img alt="skype"
                 src="https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white">
         </a>
+</p>
 
-</details>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Mohammed alamin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mohammed alamin" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir372569&show_icons=true&locale=en&layout=compact" alt="sabbir372569" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir372569&show_icons=true&locale=en" alt="sabbir372569" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir372569&" alt="sabbir372569" /></p>
 
 <!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻"
-    </p>
-</samp>
+
 
 
 
 <!-- Featured Repositories -->
-#### Featured
 
-<p align="center">
+#### Featured
+<p align="left">
 <a href="https://github.com/Sabbir372569/Sabbir372569?tab=readme-ov-file">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Sabbir372569&repo=Sabbir372569&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
@@ -113,4 +119,12 @@
 <img width='49%' align="center"src="&repo=2.PlayVille&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
+
+<samp>
+    <p align="left">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
 <hr></hr>
