@@ -52,9 +52,8 @@
 </p>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir372569" alt="sabbir372569" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<!-- Social Links -->
+ <a align="left" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir372569" alt="sabbir372569" /></a> 
+ <a align="left" href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
 <h4 align="left">Connect with me:</h4>
          <p align="left">
         <!-- Mail -->
@@ -89,14 +88,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/Mohammed alamin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mohammed alamin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir372569&show_icons=true&locale=en&layout=compact" alt="sabbir372569" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir372569&show_icons=true&locale=en" alt="sabbir372569" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir372569&" alt="sabbir372569" /></p>
-
-<!-- Footer -->
-
-
+<p>
+        <a href="https://www.buymeacoffee.com/Mohammed alamin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mohammed alamin" />
+        </a>
+</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir372569&show_icons=true&locale=en&layout=compact" alt="sabbir372569" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sabbir372569&show_icons=true&locale=en" alt="sabbir372569" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir372569&" alt="sabbir372569" />
 
 
 <!-- Featured Repositories -->
@@ -107,9 +105,9 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Sabbir372569&repo=Sabbir372569&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
-
+<!-- Footer -->
 <samp>
-    <p align="left">
+    <p align="center">
         ════ ⋆★⋆ ════
         <br>
         "Happy Coding👨‍💻"
